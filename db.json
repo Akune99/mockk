@@ -1,0 +1,17 @@
+{
+  "story": "Welcome to the enchanting village of Whimsy Woods, where friends Mary and Lily embark on a thrilling adventure! As they roam through the delightful village, they encounter mysterious puzzles and challenges that test their wits. Let's join them on their journey and solve some math problems along the way!",
+  "questions": [
+    {
+      "question": "Mary and Lily need to collect 12 magical star crystals to save the village from darkness. If they have already found 4 crystals, how many more do they need to collect?",
+      "options": ["6", "8", "10", "12"],
+      "correct_answer": "8",
+      "explanation": "Correct! If they already have 4 crystals and need a total of 12, they would need to collect 12 - 4 = 8 more crystals to reach their goal."
+    },
+    {
+      "question": "The mischievous wizard of Whimsy Woods has cast a spell, causing all the apples in the village to double in number. If there were 15 apples before the spell, how many apples are there now?",
+      "options": ["20", "25", "30", "35"],
+      "correct_answer": "30",
+      "explanation": "Well done! When the number of apples doubles, you need to multiply the original number by 2. So, 15 apples doubled would be 15 * 2 = 30 apples now in the village."
+    }
+  ]
+}
